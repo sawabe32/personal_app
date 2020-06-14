@@ -5,7 +5,7 @@
  
  ![sample](IMG_FA083511A80A-1.jpeg =250x)
  
- <img src="***画像のURL***" width=200>
+ <img src="https://github.com/sawabe32/personal_app/blob/master/IMG_FA083511A80A-1.jpeg" width=200>
 
 ### 本番環境
  heroku
