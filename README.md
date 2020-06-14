@@ -3,7 +3,7 @@
 ### 概要
  チャットボットを作成、朝の日課をチャットボット と一緒に行う。
  
- ./images/IMG_FA083511A80A-1.jpeg
+ ![sample](IMG_FA083511A80A-1.jpeg)
 
 ### 本番環境
  heroku
