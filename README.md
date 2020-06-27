@@ -1,7 +1,7 @@
 # personal_app
 
 ### 概要
- チャットボットを作成、朝の日課をチャットボット と一緒に行う。
+ チャットボットを作成、朝の日課をチャットボット と一緒に行います。
  
 <img src="https://github.com/sawabe32/personal_app/blob/master/IMG_FA083511A80A-1.jpeg" width=200> <img src="https://github.com/sawabe32/personal_app/blob/master/IMG_96555568C35A-1.jpeg" width=200>  
  
@@ -25,4 +25,5 @@
  messaging api  
 
 ### 課題や今後実装したい機能
- 自然会話ができる分野を少しずつ増やしていきたい
+ 自然会話ができる分野を少しずつ増やしていきたいと思います。  
+ また、Pythonによる言語処理の拡充を図りたいと思います。
